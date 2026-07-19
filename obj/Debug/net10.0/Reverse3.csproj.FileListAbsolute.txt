@@ -1,0 +1,15 @@
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\Reverse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\Reverse3.AssemblyInfoInputs.cache
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\Reverse3.AssemblyInfo.cs
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\Reverse3.csproj.CoreCompileInputs.cache
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\Reverse3.sourcelink.json
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\bin\Debug\net10.0\Reverse3.exe
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\bin\Debug\net10.0\Reverse3.deps.json
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\bin\Debug\net10.0\Reverse3.runtimeconfig.json
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\bin\Debug\net10.0\Reverse3.dll
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\bin\Debug\net10.0\Reverse3.pdb
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\Reverse3.dll
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\refint\Reverse3.dll
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\Reverse3.pdb
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\Reverse3.genruntimeconfig.cache
+C:\Users\zcru3\OneDrive\Desktop\Reverse3\Reverse3\obj\Debug\net10.0\ref\Reverse3.dll

@@ -2,7 +2,7 @@
 
 /*
 Name: Zulisa Cruz
-Date Completed: July 2026
+Date Completed: July 18, 2026
 Description: This program displays three integers, passes them
 by reference to a method, and reverses the first and last values.
 Resources Used: Course materials and class notes.
